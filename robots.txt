@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://bativiqosipo.b-cdn.net/sitemap.xml
